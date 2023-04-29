@@ -1,2 +1,2 @@
 # RapidRescue
-RapidRescue
+The Rapid Rescue website is a platform that allows users to quickly report emergencies, such as accidents or crimes, and file complaints related to public services. The site serves as a centralized hub for emergency services, including police, fire, and medical assistance, and provides a streamlined process for reporting incidents and seeking help. In addition, the website offers a convenient way to file complaints related to public services such as transportation, utilities, and public facilities. The primary goal of the site is to ensure that users can access emergency services and report complaints in a timely and efficient manner, making it easier for authorities to respond to incidents and address concerns.
